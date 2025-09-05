@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 3rd-year Ph.D student in Acoustics Lab at Aalto University, supervised by Vesa Välimäki and advised by Sebastian J. Schlecht. 
+I am a 3rd-year Ph.D student in Acoustics Lab at Aalto University, supervised by Vesa Välimäki and advised by Sebastian J. Schlecht.    
 
 I explore how users perceive sounds in augmented reality (AR). My PhD research goal is to model auditory illusion in augmented reality (AR) using Bayesian approach. 
 
