@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am a 3rd-year Ph.D student in Acoustics Lab at Aalto University, supervised by Vesa Välimäki and advised by Sebastian J. Schlecht.    
 
-I explore how users perceive sounds in augmented reality (AR), especially for complex room acoustics. Currently, my interest is to improve inverse problems in room acoustics with the Bayesian approach.
+I explore how users perceive sounds in augmented reality (AR), especially for complex room acoustics. Currently, my interest is to improve inverse problems in room acoustics with the Bayesian and data-driven approach.
 
 Prior to my Ph.D, I received B.S in [Computer Science](https://cs.kaist.ac.kr/) and M.S in [Music and Audio Computing Lab](https://mac.kaist.ac.kr/) at KAIST. 
 
