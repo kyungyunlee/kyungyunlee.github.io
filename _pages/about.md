@@ -16,11 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a 3rd-year Ph.D student in Acoustics Lab at Aalto University, supervised by Vesa Välimäki.    
+I am a 4th-year Ph.D student in Acoustics Lab at Aalto University, supervised by Vesa Välimäki.    
 
-I explore how users perceive sounds in augmented reality (AR), especially for complex room acoustics. Currently, my interest is to solve inverse problems in room acoustics with the Bayesian and data-driven approach.
+My research focuses on modeling and understanding complex acoustic and audiovisual environments, combining signal processing, machine learning, and perceptual approaches. My work spans room acoustics modeling, inverse problems, and audiovisual scene understanding, with a particular interest in Bayesian inference and generative models.
 
 Prior to my Ph.D, I received B.S in [Computer Science](https://cs.kaist.ac.kr/) and M.S in [Music and Audio Computing Lab](https://mac.kaist.ac.kr/) at KAIST. 
 
 
-**Link to [CV](/assets/pdf/KYL_CV.pdf){:target="_blank"}**
+**Link to [CV](/assets/pdf/KYL_CV_Nov2026.pdf){:target="_blank"}**
